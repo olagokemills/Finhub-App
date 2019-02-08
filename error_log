@@ -1,0 +1,8 @@
+[19-Nov-2018 09:31:44 America/Chicago] PHP Warning:  require(../includes/connect.php): failed to open stream: No such file or directory in /home4/genesisg/public_html/genesisgroupng.com/finhub+/index.php on line 6
+[19-Nov-2018 09:31:44 America/Chicago] PHP Warning:  require(../includes/connect.php): failed to open stream: No such file or directory in /home4/genesisg/public_html/genesisgroupng.com/finhub+/index.php on line 6
+[19-Nov-2018 09:31:44 America/Chicago] PHP Fatal error:  require(): Failed opening required '../includes/connect.php' (include_path='.:/opt/php56/lib/php') in /home4/genesisg/public_html/genesisgroupng.com/finhub+/index.php on line 6
+[21-Nov-2018 05:04:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/check.php on line 69
+[21-Nov-2018 05:04:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/check.php on line 69
+[21-Nov-2018 05:04:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/check.php on line 69
+[21-Nov-2018 05:04:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/check.php on line 69
+[21-Nov-2018 05:04:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/check.php on line 69

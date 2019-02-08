@@ -1,0 +1,10 @@
+[19-Nov-2018 05:28:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisors/index.php:15) in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisors/index.php on line 16
+[22-Nov-2018 11:40:53 America/Chicago] PHP Fatal error:  Call to undefined function myslqi_query() in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/mailer.php on line 20
+[22-Nov-2018 11:43:49 America/Chicago] PHP Fatal error:  Call to undefined function myslqi_query() in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/mailer.php on line 20
+[22-Nov-2018 11:49:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/mailer.php on line 21
+[22-Nov-2018 11:54:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/mailer.php on line 21
+[22-Nov-2018 12:03:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/mailer.php on line 21
+[06-Dec-2018 02:46:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/delete.php on line 49
+[06-Dec-2018 02:47:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/delete.php on line 49
+[06-Dec-2018 09:48:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/delete.php on line 49
+[06-Dec-2018 10:03:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home4/genesisg/public_html/genesisgroupng.com/finhub+/supervisor/delete.php on line 49

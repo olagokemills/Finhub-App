@@ -1,0 +1,6 @@
+[21-Nov-2018 09:53:43 America/Chicago] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home4/genesisg/public_html/genesisgroupng.com/finhub+/track/view_records.php on line 8
+[21-Nov-2018 09:53:43 America/Chicago] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home4/genesisg/public_html/genesisgroupng.com/finhub+/track/view_records.php on line 8
+[21-Nov-2018 09:53:43 America/Chicago] PHP Warning:  include(): Failed opening 'delete.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/genesisg/public_html/genesisgroupng.com/finhub+/track/view_records.php on line 8
+[21-Nov-2018 10:04:50 America/Chicago] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home4/genesisg/public_html/genesisgroupng.com/finhub+/track/range.php on line 11
+[21-Nov-2018 10:04:50 America/Chicago] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home4/genesisg/public_html/genesisgroupng.com/finhub+/track/range.php on line 11
+[21-Nov-2018 10:04:50 America/Chicago] PHP Warning:  include(): Failed opening 'delete.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/genesisg/public_html/genesisgroupng.com/finhub+/track/range.php on line 11
